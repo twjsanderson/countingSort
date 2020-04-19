@@ -1,6 +1,6 @@
 # Counting Sort Algorithm Implementation in JS
 
-This application is intedend for Junior Developers who are curious about the various implementations of the Counting Sort Algorithm in Javascript. Use this as a study guide to familiarize yourself with the recusive and iterative approaches to this algorithm.
+This application is intedend for Junior Developers who are curious about the various implementations of the Counting Sort Algorithm in Javascript. Use this as a study guide to familiarize yourself with 2 iterative approaches to this algorithm.
 
 ## Objectives
 
